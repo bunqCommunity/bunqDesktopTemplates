@@ -1,0 +1,100 @@
+{
+    "categories": [
+        {
+            "label": "Other",
+            "color": "#2de179",
+            "icon": "restaurant",
+            "priority": "1"
+        },
+        {
+            "label": "ATM",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        },
+        {
+            "label": "Subscriptions & Donations",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        },
+        {
+            "label": "Bars &  Restaurants",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        },
+        {
+            "label": "Food & Groceries",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        },
+        {
+            "label": "Family & Friends",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        },
+        {
+            "label": "Hobbies & Entertainment",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        },
+        {
+            "label": "Salery",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        },
+        {
+            "label": "Health & Medicine",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        },
+        {
+            "label": "Media & Electronics",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        },
+        {
+            "label": "Holidays",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        },
+        {
+            "label": "Shopping",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        },
+        {
+            "label": "Savings & Investments",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        },
+        {
+            "label": "Tax",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        },
+        {
+            "label": "Transport & Car",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        },
+        {
+            "label": "Insurance & Finance",
+            "color": "#2de179",
+            "icon": "attach_money",
+            "priority": "4"
+        }
+    ]
+}
