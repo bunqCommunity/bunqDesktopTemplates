@@ -1,5 +1,5 @@
 # bunqDesktop Templates
-A collection of templates for categories and category rules for bunqDesktop
+A collection of templates for categories and category rules for [bunqDesktop](https://github.com/bunqCommunity/bunqDesktop)
 
 The `categories.json` and `category-rules.json` file are used to setup bunqDesktop with an initial set of useful categories and rules. You are free to suggest changes through pull requests or an issue if you don't know how.
 
