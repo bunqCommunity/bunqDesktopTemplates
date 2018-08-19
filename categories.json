@@ -2,30 +2,30 @@
     "atm": {
         "id": "atm",
         "label": "ATM",
-        "color": "#2de179",
+        "color": "#d1d1e0",
         "icon": "far fa-credit-card",
-        "priority": "4"
+        "priority": "14"
     },
     "subscriptions": {
         "id": "subscriptions",
         "label": "Subscriptions & Donations",
-        "color": "#2de179",
+        "color": "#d1d1e0",
         "icon": "fa fa-donate",
-        "priority": "4"
+        "priority": "13"
     },
     "bars": {
         "id": "bars",
         "label": "Bars & Restaurants",
-        "color": "#2de179",
+        "color": "#33cc33",
         "icon": "fa fa-beer",
-        "priority": "4"
+        "priority": "10"
     },
     "food": {
         "id": "food",
         "label": "Food & Groceries",
-        "color": "#2de179",
+        "color": "#7FBD20",
         "icon": "fa fa-utensils",
-        "priority": "4"
+        "priority": "9"
     },
     "family": {
         "id": "family",
@@ -37,71 +37,71 @@
     "hobbies": {
         "id": "hobbies",
         "label": "Hobbies & Entertainment",
-        "color": "#2de179",
+        "color": "#EDA70D",
         "icon": "fa fa-headphones",
-        "priority": "4"
+        "priority": "8"
     },
     "salary": {
         "id": "salary",
         "label": "Salary",
-        "color": "#2de179",
+        "color": "#EFD322",
         "icon": "fa fa-money-check",
-        "priority": "4"
+        "priority": "1"
     },
     "health": {
         "id": "health",
         "label": "Health & Medicine",
-        "color": "#2de179",
+        "color": "#e60000",
         "icon": "fa fa-prescription-bottle",
-        "priority": "4"
+        "priority": "12"
     },
     "media": {
         "id": "media",
         "label": "Media & Electronics",
-        "color": "#2de179",
+        "color": "#ff6600",
         "icon": "fa fa-laptop",
-        "priority": "4"
+        "priority": "7"
     },
     "holidays": {
         "id": "holidays",
         "label": "Holidays",
-        "color": "#2de179",
+        "color": "#22F3CC",
         "icon": "fa fa-sun",
-        "priority": "4"
+        "priority": "5"
     },
     "shopping": {
         "id": "shopping",
         "label": "Shopping",
-        "color": "#2de179",
+        "color": "#e6004c",
         "icon": "fa fa-shopping-cart",
-        "priority": "4"
+        "priority": "6"
     },
     "savings": {
         "id": "savings",
         "label": "Savings & Investments",
-        "color": "#2de179",
+        "color": "#D7DA3C",
         "icon": "fa fa-piggy-bank",
-        "priority": "4"
+        "priority": "2"
     },
     "tax": {
         "id": "tax",
         "label": "Tax",
         "color": "#2de179",
         "icon": "fa fa-file-invoice-dollar",
-        "priority": "4"
+        "priority": "15"
     },
     "transport": {
         "id": "transport",
         "label": "Transport & Car",
-        "color": "#2de179",
+        "color": "#0000ff",
         "icon": "fa fa-car",
-        "priority": "4"
+        "priority": "3"
     },
     "insurance": {
         "id": "insurance",
         "label": "Insurance & Finance",
-        "color": "#2de179",
-        "icon": "fa fa-university",
-        "priority": "4"
+        "color": "#00C6FF",
+        "icon": "fas fa-umbrella",
+        "priority": "11"
     }
 }
