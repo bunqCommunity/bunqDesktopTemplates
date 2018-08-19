@@ -1,89 +1,104 @@
 {
     "atm": {
+        "id": "atm",
         "label": "ATM",
         "color": "#2de179",
         "icon": "far fa-credit-card",
         "priority": "4"
     },
     "subscriptions": {
+        "id": "subscriptions",
         "label": "Subscriptions & Donations",
         "color": "#2de179",
         "icon": "fa fa-donate",
         "priority": "4"
     },
     "bars": {
+        "id": "bars",
         "label": "Bars & Restaurants",
         "color": "#2de179",
         "icon": "fa fa-beer",
         "priority": "4"
     },
     "food": {
+        "id": "food",
         "label": "Food & Groceries",
         "color": "#2de179",
         "icon": "fa fa-utensils",
         "priority": "4"
     },
     "family": {
+        "id": "family",
         "label": "Family & Friends",
         "color": "#2de179",
         "icon": "fa fa-users",
         "priority": "4"
     },
     "hobbies": {
+        "id": "hobbies",
         "label": "Hobbies & Entertainment",
         "color": "#2de179",
         "icon": "fa fa-headphones",
         "priority": "4"
     },
     "salary": {
+        "id": "salary",
         "label": "Salary",
         "color": "#2de179",
         "icon": "fa fa-money-check",
         "priority": "4"
     },
     "health": {
+        "id": "health",
         "label": "Health & Medicine",
         "color": "#2de179",
         "icon": "fa fa-prescription-bottle",
         "priority": "4"
     },
     "media": {
+        "id": "media",
         "label": "Media & Electronics",
         "color": "#2de179",
         "icon": "fa fa-laptop",
         "priority": "4"
     },
     "holidays": {
+        "id": "holidays",
         "label": "Holidays",
         "color": "#2de179",
         "icon": "fa fa-sun",
         "priority": "4"
     },
     "shopping": {
+        "id": "shopping",
         "label": "Shopping",
         "color": "#2de179",
         "icon": "fa fa-shopping-cart",
         "priority": "4"
     },
     "savings": {
+        "id": "savings",
         "label": "Savings & Investments",
         "color": "#2de179",
         "icon": "fa fa-piggy-bank",
         "priority": "4"
     },
-    "taax": {
+    "tax": {
+        "id": "tax",
         "label": "Tax",
         "color": "#2de179",
         "icon": "fa fa-file-invoice-dollar",
         "priority": "4"
     },
     "transport": {
+        "id": "transport",
         "label": "Transport & Car",
         "color": "#2de179",
         "icon": "fa fa-car",
         "priority": "4"
     },
     "insurance": {
+        "id": "insurance",
         "label": "Insurance & Finance",
         "color": "#2de179",
         "icon": "fa fa-university",
