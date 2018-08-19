@@ -1,10 +1,4 @@
 {
-    "other": {
-        "label": "Other",
-        "color": "#2de179",
-        "icon": "restaurant",
-        "priority": "1"
-    },
     "atm": {
         "label": "ATM",
         "color": "#2de179",
@@ -38,13 +32,13 @@
     "hobbies": {
         "label": "Hobbies & Entertainment",
         "color": "#2de179",
-        "icon": "=====",
+        "icon": "fa fa-headphones",
         "priority": "4"
     },
     "salary": {
         "label": "Salary",
         "color": "#2de179",
-        "icon": "fa fa-file-invoice-dollar",
+        "icon": "fa fa-money-check",
         "priority": "4"
     },
     "health": {
@@ -56,7 +50,7 @@
     "media": {
         "label": "Media & Electronics",
         "color": "#2de179",
-        "icon": "fa fa-tv",
+        "icon": "fa fa-laptop",
         "priority": "4"
     },
     "holidays": {
