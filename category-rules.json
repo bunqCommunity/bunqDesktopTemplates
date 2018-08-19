@@ -1,3 +1,84 @@
 {
-    "category-rules": []
+    "category-rules": [
+        {
+            "title": "Food & Groceries",
+            "matchType": "OR",
+            "rules": [
+                {
+                    "ruleType": "VALUE",
+                    "field": "DESCRIPTION",
+                    "matchType": "CONTAINS",
+                    "value": "brood"
+                },
+                {
+                    "ruleType": "VALUE",
+                    "field": "DESCRIPTION",
+                    "matchType": "CONTAINS",
+                    "value": "kiosk"
+                },
+                {
+                    "ruleType": "VALUE",
+                    "field": "DESCRIPTION",
+                    "matchType": "CONTAINS",
+                    "value": "thuisbezorgd"
+                },
+                {
+                    "ruleType": "VALUE",
+                    "field": "COUNTERPARTY_NAME",
+                    "matchType": "CONTAINS",
+                    "value": "takeaway"
+                },
+                {
+                    "ruleType": "VALUE",
+                    "field": "DESCRIPTION",
+                    "matchType": "CONTAINS",
+                    "value": "lekker"
+                }
+            ],
+            "categories": [
+                "food"
+            ],
+            "enabled": true
+        },
+        {
+            "title": "Food & Groceries",
+            "matchType": "OR",
+            "rules": [
+                {
+                    "ruleType": "VALUE",
+                    "field": "DESCRIPTION",
+                    "matchType": "CONTAINS",
+                    "value": "brood"
+                },
+                {
+                    "ruleType": "VALUE",
+                    "field": "DESCRIPTION",
+                    "matchType": "CONTAINS",
+                    "value": "kiosk"
+                },
+                {
+                    "ruleType": "VALUE",
+                    "field": "DESCRIPTION",
+                    "matchType": "CONTAINS",
+                    "value": "thuisbezorgd"
+                },
+                {
+                    "ruleType": "VALUE",
+                    "field": "COUNTERPARTY_NAME",
+                    "matchType": "CONTAINS",
+                    "value": "takeaway"
+                },
+                {
+                    "ruleType": "VALUE",
+                    "field": "DESCRIPTION",
+                    "matchType": "CONTAINS",
+                    "value": "lekker"
+                }
+            ],
+            "categories": [
+                "food"
+            ],
+            "enabled": true
+        }
+    ]
 }

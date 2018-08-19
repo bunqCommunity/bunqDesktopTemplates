@@ -1,100 +1,98 @@
 {
-    "categories": [
-        {
-            "label": "Other",
-            "color": "#2de179",
-            "icon": "restaurant",
-            "priority": "1"
-        },
-        {
-            "label": "ATM",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        },
-        {
-            "label": "Subscriptions & Donations",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        },
-        {
-            "label": "Bars &  Restaurants",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        },
-        {
-            "label": "Food & Groceries",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        },
-        {
-            "label": "Family & Friends",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        },
-        {
-            "label": "Hobbies & Entertainment",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        },
-        {
-            "label": "Salery",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        },
-        {
-            "label": "Health & Medicine",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        },
-        {
-            "label": "Media & Electronics",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        },
-        {
-            "label": "Holidays",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        },
-        {
-            "label": "Shopping",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        },
-        {
-            "label": "Savings & Investments",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        },
-        {
-            "label": "Tax",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        },
-        {
-            "label": "Transport & Car",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        },
-        {
-            "label": "Insurance & Finance",
-            "color": "#2de179",
-            "icon": "attach_money",
-            "priority": "4"
-        }
-    ]
+    "other": {
+        "label": "Other",
+        "color": "#2de179",
+        "icon": "restaurant",
+        "priority": "1"
+    },
+    "atm": {
+        "label": "ATM",
+        "color": "#2de179",
+        "icon": "far fa-credit-card",
+        "priority": "4"
+    },
+    "subscriptions": {
+        "label": "Subscriptions & Donations",
+        "color": "#2de179",
+        "icon": "fa fa-donate",
+        "priority": "4"
+    },
+    "bars": {
+        "label": "Bars & Restaurants",
+        "color": "#2de179",
+        "icon": "fa fa-beer",
+        "priority": "4"
+    },
+    "food": {
+        "label": "Food & Groceries",
+        "color": "#2de179",
+        "icon": "fa fa-utensils",
+        "priority": "4"
+    },
+    "family": {
+        "label": "Family & Friends",
+        "color": "#2de179",
+        "icon": "fa fa-users",
+        "priority": "4"
+    },
+    "hobbies": {
+        "label": "Hobbies & Entertainment",
+        "color": "#2de179",
+        "icon": "=====",
+        "priority": "4"
+    },
+    "salary": {
+        "label": "Salary",
+        "color": "#2de179",
+        "icon": "fa fa-file-invoice-dollar",
+        "priority": "4"
+    },
+    "health": {
+        "label": "Health & Medicine",
+        "color": "#2de179",
+        "icon": "fa fa-prescription-bottle",
+        "priority": "4"
+    },
+    "media": {
+        "label": "Media & Electronics",
+        "color": "#2de179",
+        "icon": "fa fa-tv",
+        "priority": "4"
+    },
+    "holidays": {
+        "label": "Holidays",
+        "color": "#2de179",
+        "icon": "fa fa-sun",
+        "priority": "4"
+    },
+    "shopping": {
+        "label": "Shopping",
+        "color": "#2de179",
+        "icon": "fa fa-shopping-cart",
+        "priority": "4"
+    },
+    "savings": {
+        "label": "Savings & Investments",
+        "color": "#2de179",
+        "icon": "fa fa-piggy-bank",
+        "priority": "4"
+    },
+    "taax": {
+        "label": "Tax",
+        "color": "#2de179",
+        "icon": "fa fa-file-invoice-dollar",
+        "priority": "4"
+    },
+    "transport": {
+        "label": "Transport & Car",
+        "color": "#2de179",
+        "icon": "fa fa-car",
+        "priority": "4"
+    },
+    "insurance": {
+        "label": "Insurance & Finance",
+        "color": "#2de179",
+        "icon": "fa fa-university",
+        "priority": "4"
+    }
 }
