@@ -1,0 +1,19 @@
+{
+  "name": "bunq-desktop-templates",
+  "version": "1.0.0",
+  "description": "A collection of categories and category-rules for bunqDesktop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BunqCommunity/bunqDesktopTemplates.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BunqCommunity/bunqDesktopTemplates/issues"
+  },
+  "homepage": "https://github.com/BunqCommunity/bunqDesktopTemplates#readme"
+}
